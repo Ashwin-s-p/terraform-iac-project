@@ -47,10 +47,6 @@ terraform-project/
 terraform init
 ```
 
-###  Preview Changes
-
-```bash
-terraform plan
 ```
 
 ###  Apply Configuration
