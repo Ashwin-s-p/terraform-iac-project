@@ -101,8 +101,4 @@ Successfully built a **production-like infrastructure automation workflow**, dem
 
 ##  Author
 
-Ashwin Poojary
-
-
-
 **Ashwin Poojary**
