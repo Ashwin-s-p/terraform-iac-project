@@ -53,7 +53,7 @@ terraform init
 terraform apply
 ```
 
-###  Destroy Resources (Important 💀)
+###  Destroy Resources 
 
 ```bash
 terraform destroy
