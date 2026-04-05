@@ -47,8 +47,6 @@ terraform-project/
 terraform init
 ```
 
-```
-
 ###  Apply Configuration
 
 ```bash
